@@ -90,10 +90,10 @@ public class UploadActivity extends AppCompatActivity {
                else{
                    pd.setMessage("Uploading...");
                    pd.show();
-                   uploadImage();
+                   //uploadImage();
                }
             }
-            private void uploadImage() {
+            /*private void uploadImage() {
                 ByteArrayOutputStream baos=new ByteArrayOutputStream();
                 bitmap.compress(Bitmap.CompressFormat.JPEG,50,baos);
                 byte[] finaling =baos.toByteArray();
@@ -129,7 +129,7 @@ public class UploadActivity extends AppCompatActivity {
                     }
                 });
 
-            }
+            }*/
         });
     }
 }
