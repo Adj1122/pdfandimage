@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176476946749",
+    "project_id": "pdf-and-image",
+    "storage_bucket": "pdf-and-image.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176476946749:android:52b3f0c10ffccde533c554",
+        "android_client_info": {
+          "package_name": "com.example.pdfandimageupload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRydsOBGOJkQRO1zQHZnRgHG1HbW_hQtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
